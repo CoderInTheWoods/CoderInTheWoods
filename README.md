@@ -1,6 +1,6 @@
 # CoderInTheWoods
 
-![Cover](./cover-image-dark.png)
+![Cover](./cover-image-light.png)
 
 <!-- <img src="cover-image-light.PNG" alt="CoderInTheWoods"/> -->
 
