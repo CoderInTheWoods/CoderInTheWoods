@@ -58,8 +58,6 @@
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderInTheWoods&show_icons=true&theme=light)](https://github.com/CoderInTheWoods) -->
 
-<br>
-<br>
 <p align="center"> 
 <a href="https://github.com/CoderInTheWoods">
   <img src="https://github-readme-stats.vercel.app/api?username=CoderInTheWoods&show_icons=true&theme=light" alt="CoderInTheWoods"/>
