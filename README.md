@@ -1,6 +1,6 @@
 # CoderInTheWoods
 
-![Kalgi Sheth's-cover](./cover-image-light.png)
+![Cover](/cover-image-light.png)
 
 <!-- ## 🧔 About Me -->
 
