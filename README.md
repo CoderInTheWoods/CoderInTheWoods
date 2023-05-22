@@ -1,6 +1,6 @@
 # CoderInTheWoods
 
-![Cover](https://github.com/CoderInTheWoods/CoderInTheWoods/blob/d3902b24c2da053db44a4cbcbf36d1600af18bad/cover-image-light.png)
+![Cover](https://github.com/CoderInTheWoods/CoderInTheWoods/blob/d3902b24c2da053db44a4cbcbf36d1600af18bad/cover-image-light.PNG)
 
 <!-- ## 🧔 About Me -->
 
