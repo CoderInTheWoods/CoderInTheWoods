@@ -1,6 +1,12 @@
 # CoderInTheWoods
 
-![Cover](cover-image-light.PNG)
+<br>
+
+![Cover](/cover-image-dark.png)
+
+<br>
+
+<!-- <img src="cover-image-light.PNG" alt="CoderInTheWoods"/> -->
 
 <!-- ## 🧔 About Me -->
 
