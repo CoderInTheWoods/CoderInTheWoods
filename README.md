@@ -4,6 +4,8 @@
 
 ![Cover](/cover-image-dark.png)
 
+![Cover](/cover-image-dark.png?raw=true "Cover")
+
 <br>
 
 <!-- <img src="cover-image-light.PNG" alt="CoderInTheWoods"/> -->
